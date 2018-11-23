@@ -30,4 +30,3 @@ class CashRegister
       @total -= @value
     end
   end
-end
