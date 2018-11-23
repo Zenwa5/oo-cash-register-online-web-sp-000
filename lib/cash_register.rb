@@ -29,5 +29,5 @@ class CashRegister
      def void_last_transaction
       @total -= @value
     end
-  end 
+  end
 end
