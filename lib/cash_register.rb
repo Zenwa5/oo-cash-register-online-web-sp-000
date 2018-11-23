@@ -1,7 +1,8 @@
 class CashRegister
 
   def new
-    @total.self = 0
+    @total = 0
+    @total
   end
 
 end
