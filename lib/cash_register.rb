@@ -15,7 +15,7 @@ class CashRegister
       end
       # @items.concat(quantity.times.map{item})
       # @items.concat([item] * quantity)
-    end
+    
   end
 
 
