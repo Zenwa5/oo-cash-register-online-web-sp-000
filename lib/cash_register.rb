@@ -7,4 +7,9 @@ class CashRegister
     @items = []
   end
 
+  def add_item
+
+  end
+  
+
 end
